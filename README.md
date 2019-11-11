@@ -1,3 +1,15 @@
+# Mac version desktop download link:
+
+https://oss.vasblock.com/vas/wallet/pc/VASWallet.dmg
+
+# Windows side desktop download link:
+
+https://oss.vasblock.com/vas/wallet/pc/VASWallet.exe
+
+# Ubuntu version of the desktop download link:
+
+https://oss.vasblock.com/vas/wallet/pc/vaswallet.deb
+
 # ubuntu install
 
 ### Need to install and run with sudo
